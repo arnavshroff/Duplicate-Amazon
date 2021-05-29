@@ -1,0 +1,13 @@
+ {
+   "expo": {
+    "name": "Amazon",
+    "icon": "./amazon.png",
+    "version": "4.3.0",
+    "slug": "native-component",
+    
+    "android": {
+      "package": "com.native-component.amazon",
+      "versionCode": 1
+    }
+   }
+ }
